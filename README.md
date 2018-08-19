@@ -98,6 +98,18 @@ It's important to pair learning goals with resources. The following have been in
 			<td>TBD</td>
 		</tr>
 		<tr>
+			<td>
+				Understand: Iterators and Generators
+			</td>
+			<td>Two hours</td>
+			<td>
+				<ul>
+					<li><a href="https://www.typescriptlang.org/docs/handbook/iterators-and-generators.html">Iterators and Generators TypeScript Handbook</a></li>
+				</ul>
+			</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
 			<td>Understand:
 				<ul>
 					<li>Type Inference</li>
@@ -111,6 +123,51 @@ It's important to pair learning goals with resources. The following have been in
 					<li><a href="https://basarat.gitbooks.io/typescript/docs/types/type-inference.html">Type Inference in TypeScript</a></li>
 					<li><a href="https://www.typescriptlang.org/docs/handbook/type-compatibility.html">Type Compatibility TypeScript Handbook</a></li>
 					<li><a href="https://basarat.gitbooks.io/typescript/docs/types/type-compatibility.html">Type Compatibility</a></li>
+				</ul>
+			</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
+			<td>
+				Understand: Advanced Types
+			</td>
+			<td>Half day</td>
+			<td>
+				<ul>
+					<li><a href="https://www.typescriptlang.org/docs/handbook/advanced-types.html">Advanced Types TypeScript Handbook</a></li>
+				</ul>
+			</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
+			<td>
+				Understand:
+				<ul>
+					<li>Modules</li>
+					<li>Namespaces</li>
+				</ul>
+			</td>
+			<td>half day</td>
+			<td>
+				<ul>
+					<li><a href="https://www.typescriptlang.org/docs/handbook/modules.html">Modules TypeScript Handbook</a></li>
+					<li><a href="https://www.typescriptlang.org/docs/handbook/namespaces.html">Namespaces TypeScript Handbook</a></li>
+					<li><a href="https://www.typescriptlang.org/docs/handbook/namespaces-and-modules.html">Namespaces and Modules TypeScript Handbook</a></li>
+					<li><a href="https://www.typescriptlang.org/docs/handbook/module-resolution.html">Module Resolution TypeScript Handbook</a></li>
+				</ul>
+			</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
+			<td>
+				Understand: JSX<br>
+				<small>Optional (if using)</small>
+			</td>
+			<td>half day</td>
+			<td>
+				<ul>
+					<li><a href="https://www.typescriptlang.org/docs/handbook/jsx.html">JSX TypeScript Handbook</a></li>
+					<li><a href="https://basarat.gitbooks.io/typescript/docs/jsx/tsx.html">JSX Support</a></li>
 				</ul>
 			</td>
 			<td>TBD</td>
