@@ -20,17 +20,17 @@ A solid understanding of JavaScript is assumed.
 
 It's important to pair learning goals with resources. The following have been indentified as useful resources, but these are just examples, if other resources fulfil the learning goal, then it's fine.
 
-- [TypeScript Documentation](https://www.typescriptlang.org/docs/home.html)
-- [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
-- [TypeScript Playground](https://www.typescriptlang.org/play/index.html)
+-   [TypeScript Documentation](https://www.typescriptlang.org/docs/home.html)
+-   [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
+-   [TypeScript Playground](https://www.typescriptlang.org/play/index.html)
 
 ## What is TypeScript?
 
 TypeScript is a superset of JavaScript, adding static structural typing. TypeScript is a compile time checker and doesn't feature any runtime type checking.
 
-- [Wikipedia: TypeScript](https://en.wikipedia.org/wiki/TypeScript)
-- [TypeScript Deep Dive: Why TypeScript](https://basarat.gitbooks.io/typescript/docs/why-typescript.html)
-- [Wikipedia: Structural type system](https://en.wikipedia.org/wiki/Structural_type_system)
+-   [Wikipedia: TypeScript](https://en.wikipedia.org/wiki/TypeScript)
+-   [TypeScript Deep Dive: Why TypeScript](https://basarat.gitbooks.io/typescript/docs/why-typescript.html)
+-   [Wikipedia: Structural type system](https://en.wikipedia.org/wiki/Structural_type_system)
 
 ## Learning Plan
 
@@ -75,7 +75,7 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 					</li>
 				</ul>
 			</td>
-			<td>TBD</td>
+			<td>evaluation/01_basic_types_evaluation.ts</td>
 		</tr>
 		<tr>
 			<td>Understand: Enums</td>
