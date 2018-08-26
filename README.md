@@ -8,6 +8,10 @@ This learning plan is designed to provide [TypeScript](https://www.typescriptlan
 
 Wikipedia does a great job of defining what a [learning plan](https://en.wikipedia.org/wiki/Learning_plan) is.
 
+## Goal
+
+The goal of the learning plan is not to teach TypeScript but provide the plan and resources in order to learn. The plan has a clear stopping point - the scope is beginning TypeScript.
+
 ## Prerequisites
 
 A solid understanding of JavaScript is assumed.
@@ -19,6 +23,14 @@ It's important to pair learning goals with resources. The following have been in
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/home.html)
 - [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 - [TypeScript Playground](https://www.typescriptlang.org/play/index.html)
+
+## What is TypeScript?
+
+TypeScript is a superset of JavaScript, adding static structural typing. TypeScript is a compile time checker and doesn't feature any runtime type checking.
+
+- [Wikipedia: TypeScript](https://en.wikipedia.org/wiki/TypeScript)
+- [TypeScript Deep Dive: Why TypeScript](https://basarat.gitbooks.io/typescript/docs/why-typescript.html)
+- [Wikipedia: Structural type system](https://en.wikipedia.org/wiki/Structural_type_system)
 
 ## Learning Plan
 
@@ -40,7 +52,7 @@ It's important to pair learning goals with resources. The following have been in
 					<li>Functions</li>
 				</ul>
 			</td>
-			<td>Half-day</td>
+			<td>One Day</td>
 			<td>
 				<ul>
 					<li>
@@ -67,7 +79,7 @@ It's important to pair learning goals with resources. The following have been in
 		</tr>
 		<tr>
 			<td>Understand: Enums</td>
-			<td>Two Hours</td>
+			<td>Four Hours</td>
 			<td>
 				<ul>
 					<li><a href="https://www.typescriptlang.org/docs/handbook/enums.html">Enums TypeScript Handbook</a></li>
@@ -78,7 +90,7 @@ It's important to pair learning goals with resources. The following have been in
 		</tr>
 		<tr>
 			<td>Understand: Classes</td>
-			<td>1 day</td>
+			<td>One day</td>
 			<td>
 				<ul>
 					<li><a href="https://www.typescriptlang.org/docs/handbook/classes.html">Classes TypeScript Handbook</a></li>
@@ -88,7 +100,7 @@ It's important to pair learning goals with resources. The following have been in
 		</tr>
 		<tr>
 			<td>Understand: Generics</td>
-			<td>Half day</td>
+			<td>One day</td>
 			<td>
 				<ul>
 					<li><a href="https://www.typescriptlang.org/docs/handbook/generics.html">Generics TypeScript Handbook</a></li>
@@ -116,7 +128,7 @@ It's important to pair learning goals with resources. The following have been in
 					<li>Type Compatibility</li>
 				</ul>
 			</td>
-			<td>1 day</td>
+			<td>One day</td>
 			<td>
 				<ul>
 					<li><a href="https://www.typescriptlang.org/docs/handbook/type-inference.html">Type Inference TypeScript Handbook</a></li>
@@ -131,7 +143,7 @@ It's important to pair learning goals with resources. The following have been in
 			<td>
 				Understand: Advanced Types
 			</td>
-			<td>Half day</td>
+			<td>Two days</td>
 			<td>
 				<ul>
 					<li><a href="https://www.typescriptlang.org/docs/handbook/advanced-types.html">Advanced Types TypeScript Handbook</a></li>
@@ -147,7 +159,7 @@ It's important to pair learning goals with resources. The following have been in
 					<li>Namespaces</li>
 				</ul>
 			</td>
-			<td>half day</td>
+			<td>Half day</td>
 			<td>
 				<ul>
 					<li><a href="https://www.typescriptlang.org/docs/handbook/modules.html">Modules TypeScript Handbook</a></li>
@@ -163,7 +175,7 @@ It's important to pair learning goals with resources. The following have been in
 				Understand: JSX<br>
 				<small>Optional (if using)</small>
 			</td>
-			<td>half day</td>
+			<td>Half day</td>
 			<td>
 				<ul>
 					<li><a href="https://www.typescriptlang.org/docs/handbook/jsx.html">JSX TypeScript Handbook</a></li>
