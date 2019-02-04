@@ -40,7 +40,6 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 			<th>Goal</th>
 			<th>Time</th>
 			<th>Task/Projects/Activities</th>
-			<th>Evaluation</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -75,7 +74,6 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 					</li>
 				</ul>
 			</td>
-			<td>evaluation/01_basic_types_evaluation.ts</td>
 		</tr>
 		<tr>
 			<td>Understand: Enums</td>
@@ -86,7 +84,6 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 					<li><a href="https://basarat.gitbooks.io/typescript/docs/enums.html">Enums</a></li>
 				</ul>
 			</td>
-			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Understand: Classes</td>
@@ -96,7 +93,6 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 					<li><a href="https://www.typescriptlang.org/docs/handbook/classes.html">Classes TypeScript Handbook</a></li>
 				</ul>
 			</td>
-			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Understand: Generics</td>
@@ -107,7 +103,6 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 					<li><a href="https://basarat.gitbooks.io/typescript/docs/types/generics.html">Generics</a></li>
 				</ul>
 			</td>
-			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>
@@ -119,7 +114,6 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 					<li><a href="https://www.typescriptlang.org/docs/handbook/iterators-and-generators.html">Iterators and Generators TypeScript Handbook</a></li>
 				</ul>
 			</td>
-			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Understand:
@@ -137,7 +131,6 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 					<li><a href="https://basarat.gitbooks.io/typescript/docs/types/type-compatibility.html">Type Compatibility</a></li>
 				</ul>
 			</td>
-			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>
@@ -149,7 +142,6 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 					<li><a href="https://www.typescriptlang.org/docs/handbook/advanced-types.html">Advanced Types TypeScript Handbook</a></li>
 				</ul>
 			</td>
-			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>
@@ -168,7 +160,6 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 					<li><a href="https://www.typescriptlang.org/docs/handbook/module-resolution.html">Module Resolution TypeScript Handbook</a></li>
 				</ul>
 			</td>
-			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>
@@ -182,7 +173,6 @@ TypeScript is a superset of JavaScript, adding static structural typing. TypeScr
 					<li><a href="https://basarat.gitbooks.io/typescript/docs/jsx/tsx.html">JSX Support</a></li>
 				</ul>
 			</td>
-			<td>TBD</td>
 		</tr>
 	</tbody>
 </table>
